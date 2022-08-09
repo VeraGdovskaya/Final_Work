@@ -1,0 +1,15 @@
+C:\Users\vgdovskaya\Desktop\Test_Work\test_exersize\bin\Debug\net6.0\test_exersize.exe
+C:\Users\vgdovskaya\Desktop\Test_Work\test_exersize\bin\Debug\net6.0\test_exersize.deps.json
+C:\Users\vgdovskaya\Desktop\Test_Work\test_exersize\bin\Debug\net6.0\test_exersize.runtimeconfig.json
+C:\Users\vgdovskaya\Desktop\Test_Work\test_exersize\bin\Debug\net6.0\test_exersize.dll
+C:\Users\vgdovskaya\Desktop\Test_Work\test_exersize\bin\Debug\net6.0\test_exersize.pdb
+C:\Users\vgdovskaya\Desktop\Test_Work\test_exersize\obj\Debug\net6.0\test_exersize.csproj.AssemblyReference.cache
+C:\Users\vgdovskaya\Desktop\Test_Work\test_exersize\obj\Debug\net6.0\test_exersize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgdovskaya\Desktop\Test_Work\test_exersize\obj\Debug\net6.0\test_exersize.AssemblyInfoInputs.cache
+C:\Users\vgdovskaya\Desktop\Test_Work\test_exersize\obj\Debug\net6.0\test_exersize.AssemblyInfo.cs
+C:\Users\vgdovskaya\Desktop\Test_Work\test_exersize\obj\Debug\net6.0\test_exersize.csproj.CoreCompileInputs.cache
+C:\Users\vgdovskaya\Desktop\Test_Work\test_exersize\obj\Debug\net6.0\test_exersize.dll
+C:\Users\vgdovskaya\Desktop\Test_Work\test_exersize\obj\Debug\net6.0\refint\test_exersize.dll
+C:\Users\vgdovskaya\Desktop\Test_Work\test_exersize\obj\Debug\net6.0\test_exersize.pdb
+C:\Users\vgdovskaya\Desktop\Test_Work\test_exersize\obj\Debug\net6.0\test_exersize.genruntimeconfig.cache
+C:\Users\vgdovskaya\Desktop\Test_Work\test_exersize\obj\Debug\net6.0\ref\test_exersize.dll
